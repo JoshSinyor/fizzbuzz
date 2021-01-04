@@ -23,3 +23,5 @@ describe 'fizzbuzz' do
     expect(fizzbuzz(1)).to eq 1
   end
 end
+
+# IRB 1-100 Test: (1..100).each { |x| fizzbuzz(x) }
